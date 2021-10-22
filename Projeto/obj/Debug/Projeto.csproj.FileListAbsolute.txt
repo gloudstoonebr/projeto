@@ -1,0 +1,7 @@
+C:\Users\gloudstoonebr\Documents\Visual Studio 2019\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\gloudstoonebr\Documents\Visual Studio 2019\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\gloudstoonebr\Documents\Visual Studio 2019\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\gloudstoonebr\Documents\Visual Studio 2019\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\gloudstoonebr\Documents\Visual Studio 2019\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\gloudstoonebr\Documents\Visual Studio 2019\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\gloudstoonebr\Documents\Visual Studio 2019\Projeto\Projeto\obj\Debug\Projeto.pdb
